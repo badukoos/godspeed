@@ -4513,3 +4513,6 @@
 
 ## Update 2015-02-03
 - Feature 94
+
+## Update 2015-02-04
+- Feature 83
