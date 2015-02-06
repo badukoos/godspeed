@@ -4180,3 +4180,6 @@
 
 ## Update 2015-02-05
 - Feature 9
+
+## Update 2015-02-06
+- Feature 25
