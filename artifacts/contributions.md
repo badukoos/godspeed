@@ -4519,3 +4519,6 @@
 
 ## Update 2015-02-05
 - Feature 77
+
+## Update 2015-02-06
+- Feature 70
