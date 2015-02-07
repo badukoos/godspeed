@@ -4183,3 +4183,6 @@
 
 ## Update 2015-02-06
 - Feature 25
+
+## Update 2015-02-07
+- Feature 77
