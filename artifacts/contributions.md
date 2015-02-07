@@ -4522,3 +4522,6 @@
 
 ## Update 2015-02-06
 - Feature 70
+
+## Update 2015-02-07
+- Feature 94
