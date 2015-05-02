@@ -4615,3 +4615,6 @@
 
 ## Update 2015-05-01
 - Feature 1
+
+## Update 2015-05-02
+- Feature 26
