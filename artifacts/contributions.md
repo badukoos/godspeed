@@ -4312,3 +4312,6 @@
 
 ## Update 2015-05-25
 - Feature 55
+
+## Update 2015-05-30
+- Feature 42
