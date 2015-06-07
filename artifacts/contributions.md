@@ -4654,3 +4654,6 @@
 
 ## Update 2015-05-30
 - Feature 18
+
+## Update 2015-06-07
+- Feature 12
