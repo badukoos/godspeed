@@ -4318,3 +4318,6 @@
 
 ## Update 2015-06-07
 - Feature 26
+
+## Update 2015-06-12
+- Feature 22
