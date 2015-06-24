@@ -4336,3 +4336,6 @@
 
 ## Update 2015-06-21
 - Feature 78
+
+## Update 2015-06-24
+- Feature 12
