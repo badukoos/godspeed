@@ -4678,3 +4678,6 @@
 
 ## Update 2015-06-24
 - Feature 41
+
+## Update 2015-06-27
+- Feature 52
