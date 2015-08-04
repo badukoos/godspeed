@@ -4363,3 +4363,6 @@
 
 ## Update 2015-08-03
 - Feature 78
+
+## Update 2015-08-04
+- Feature 71
