@@ -4711,3 +4711,6 @@
 
 ## Update 2015-08-06
 - Feature 76
+
+## Update 2015-08-07
+- Feature 15
