@@ -4720,3 +4720,6 @@
 
 ## Update 2015-08-15
 - Feature 46
+
+## Update 2015-08-16
+- Feature 76
