@@ -4792,3 +4792,6 @@
 
 ## Update 2015-10-26
 - Feature 35
+
+## Update 2015-10-27
+- Feature 49
