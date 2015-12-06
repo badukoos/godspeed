@@ -4486,3 +4486,6 @@
 
 ## Update 2015-11-22
 - Feature 75
+
+## Update 2015-12-06
+- Feature 69
