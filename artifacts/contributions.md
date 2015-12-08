@@ -4492,3 +4492,6 @@
 
 ## Update 2015-12-07
 - Feature 18
+
+## Update 2015-12-08
+- Feature 44
